@@ -1,4 +1,3 @@
-# FarmSaathi
 # FarmSaathi 🌾
 
 ## Empowering Farmers with AI-Driven Agricultural Assistance
@@ -16,27 +15,27 @@ FarmSaathi is an accessible agricultural assistance platform designed to bridge 
 
 ## Key Features
 
-### 🗣️ Voice-Enabled Multilingual Support
+### Voice-Enabled Multilingual Support
 - Complete voice interface in Hindi, English, and Punjabi
 - Speech-to-text and text-to-speech capabilities for farmers with varying levels of literacy
 - Natural language processing for intuitive interactions
 
-### 🌦️ Weather-Based Crop Recommendations
+### Weather-Based Crop Recommendations
 - Intelligent crop suggestions based on local weather forecasts
 - Personalized recommendations considering farm size, soil type, and local climate
 - Real-time weather alerts and farming advisories
 
-### 📷 Image Recognition for Crop Analysis
+### Image Recognition for Crop Analysis
 - Upload images of crops to identify diseases, pests, and nutrient deficiencies
 - Visual growth tracking and yield estimation
 - Actionable insights for crop management
 
-### 💰 Financial Support Information
+### Financial Support Information
 - Up-to-date information on government schemes and subsidies
 - Agricultural loan programs and eligibility criteria
 - Financial planning tools for seasonal farming operations
 
-### 👤 Optional User Profiles
+### Optional User Profiles
 - Store farm details for personalized recommendations
 - Track crop history and performance
 - Phone number-based easy authentication
@@ -105,39 +104,6 @@ npm run dev
 # Start the client (from client directory)
 npm start
 ```
-
-## Project Structure
-
-```
-farmsaathi/
-├── client/               # React Native frontend
-├── server/               # Node.js backend
-├── ml/                   # Machine learning models
-├── docs/                 # Documentation
-└── README.md             # This file
-```
-
-## Contributing
-
-We welcome contributions from the community! Please check our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
-
-## Future Roadmap
-
-- [ ] Expand language support to include more regional languages
-- [ ] Implement offline functionality for areas with limited connectivity
-- [ ] Develop marketplace features for agricultural products
-- [ ] Add community forums for knowledge sharing among farmers
-- [ ] Integrate IoT support for smart farming devices
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to all contributors who have helped make FarmSaathi possible
-- Special thanks to agricultural experts who provided domain knowledge
-- Gratitude to the farming communities who participated in user testing
 
 ## Contact
 
