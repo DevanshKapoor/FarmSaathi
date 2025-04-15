@@ -105,9 +105,7 @@ npm run dev
 npm start
 ```
 
-## Contact
 
-For questions or feedback, please reach out to farmsaathi@example.com or open an issue on this repository.
 
 ---
 
