@@ -109,4 +109,4 @@ npm start
 
 ---
 
-Made with ❤️ for Indian Farmers
+Made for Indian Farmers
