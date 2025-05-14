@@ -105,6 +105,7 @@ npm run dev
 npm start
 ```
 
+
 ## Coming Soon
 * Mobile application for Android and iOS using React Native
 * Offline capabilities for areas with limited connectivity
