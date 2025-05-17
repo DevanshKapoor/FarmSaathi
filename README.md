@@ -109,7 +109,7 @@ npm start
 ## Coming Soon
 * Mobile application for Android and iOS using React Native
 * Offline capabilities for areas with limited connectivity
-* Enhanced voice features with more regional languages
+* Enhanced voice features with more regional languages including Tamil, Telugu, Kannada and Bengali
 * IoT integration for farm equipment monitoring
 
 ---
